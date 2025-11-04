@@ -1789,47 +1789,6 @@
     "additions": []
   },
   {
-    "id": 324997,
-    "slug": "baldurs-gate-3",
-    "name": "Baldur's Gate III",
-    "cover_image": null,
-    "screenshot": "https://media.rawg.io/media/screenshots/a67/a676cdec0eadc42a133ac49e7f2e1aac.jpg",
-    "released": "2023-08-03",
-    "rating": 4.44,
-    "metascore_number": null,
-    "metascore_color": null,
-    "genres": [
-      "Adventure",
-      "RPG",
-      "Strategy"
-    ],
-    "platforms": [
-      "macOS",
-      "PC",
-      "Xbox Series S/X",
-      "PlayStation 5"
-    ],
-    "website": null,
-    "age_rating": null,
-    "description": "",
-    "developers": [],
-    "publishers": [],
-    "tags": [],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/a67/a676cdec0eadc42a133ac49e7f2e1aac.jpg",
-      "https://media.rawg.io/media/screenshots/705/705846f6583a6da009a0ae7fcdece36d.jpg",
-      "https://media.rawg.io/media/screenshots/d29/d29b1d2726d69432d2b4180a79b9ee9d.jpg",
-      "https://media.rawg.io/media/screenshots/ed1/ed19ec8ce43f9dd3553df4a6d9301f61.jpg",
-      "https://media.rawg.io/media/screenshots/6c8/6c8983d658a4a24dc8eb9d2f88f1dabf.jpg",
-      "https://media.rawg.io/media/screenshots/92c/92cbe16a795afbc9d9837ed9eae4f22b.jpg"
-    ],
-    "media": [],
-    "stores": [],
-    "suggestions": [],
-    "series": [],
-    "additions": []
-  },
-  {
     "id": 366885,
     "slug": "dragon-age-origins-ultimate-edition",
     "name": "Dragon Age: Origins - Ultimate Edition",
@@ -1908,6 +1867,157 @@
     "stores": [],
     "suggestions": [],
     "series": [],
+    "additions": []
+  },
+  {
+    "id": 324997,
+    "slug": "baldurs-gate-3",
+    "name": "Baldur's Gate III",
+    "cover_image": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg",
+    "screenshot": "https://media.rawg.io/media/screenshots/a67/a676cdec0eadc42a133ac49e7f2e1aac.jpg",
+    "released": "2023-08-03",
+    "rating": 4.43,
+    "metascore_number": 97,
+    "metascore_color": "green",
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "platforms": [
+      "macOS",
+      "PC",
+      "Xbox Series S/X",
+      "PlayStation 5"
+    ],
+    "website": "https://baldursgate3.game/",
+    "age_rating": "Mature",
+    "description": "Gather your party, and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power.\r\n\r\nMysterious abilities are awakening inside you, drawn from a Mind Flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil.\r\n\r\nFrom the creators of Divinity: Original Sin 2 comes a next-generation RPG, set in the world of Dungeons and Dragons.\r\n\r\nChoose from a wide selection of D&D races and classes, or play as an origin character with a hand-crafted background. Adventure, loot, battle and romance as you journey through the Forgotten Realms and beyond. Play alone, and select your companions carefully, or as a party of up to four in multiplayer.\r\n\r\nAbducted, infected, lost. You are turning into a monster, but as the corruption inside you grows, so does your power. That power may help you to survive, but there will be a price to pay, and more than any ability, the bonds of trust that you build within your party could be your greatest strength. Caught in a conflict between devils, deities, and sinister otherworldly forces, you will determine the fate of the Forgotten Realms together.\r\n\r\nForged with the new Divinity 4.0 engine, Baldur’s Gate 3 gives you unprecedented freedom to explore, experiment, and interact with a world that reacts to your choices. A grand, cinematic narrative brings you closer to your characters than ever before, as you venture through our biggest world yet.\r\n\r\nThe Forgotten Realms are a vast, detailed and diverse world, and there are secrets to be discovered all around you -- verticality is a vital part of exploration. Sneak, dip, shove, climb, and jump as you journey from the depths of the Underdark to the glittering rooftops of the Upper City. How you survive, and the mark you leave on the world, is up to you.",
+    "developers": [
+      "Larian Studios"
+    ],
+    "publishers": [
+      "Larian Studios"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Multiplayer",
+      "Steam Cloud",
+      "RPG",
+      "Co-op",
+      "Online Co-Op",
+      "Fantasy",
+      "Online multiplayer",
+      "Split Screen",
+      "Local Co-Op",
+      "Local Multiplayer",
+      "Cross-Platform Multiplayer",
+      "role-playing",
+      "Character Customization",
+      "Captions available",
+      "Isometric",
+      "Magic",
+      "Steam Trading Cards",
+      "CRPG",
+      "Party-Based RPG",
+      "Role Playing Game",
+      "Dungeons & Dragons"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a67/a676cdec0eadc42a133ac49e7f2e1aac.jpg",
+      "https://media.rawg.io/media/screenshots/705/705846f6583a6da009a0ae7fcdece36d.jpg",
+      "https://media.rawg.io/media/screenshots/d29/d29b1d2726d69432d2b4180a79b9ee9d.jpg",
+      "https://media.rawg.io/media/screenshots/ed1/ed19ec8ce43f9dd3553df4a6d9301f61.jpg",
+      "https://media.rawg.io/media/screenshots/6c8/6c8983d658a4a24dc8eb9d2f88f1dabf.jpg",
+      "https://media.rawg.io/media/screenshots/92c/92cbe16a795afbc9d9837ed9eae4f22b.jpg"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/a67/a676cdec0eadc42a133ac49e7f2e1aac.jpg",
+        "preview_url": null,
+        "position": 1
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/705/705846f6583a6da009a0ae7fcdece36d.jpg",
+        "preview_url": null,
+        "position": 2
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/d29/d29b1d2726d69432d2b4180a79b9ee9d.jpg",
+        "preview_url": null,
+        "position": 3
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/ed1/ed19ec8ce43f9dd3553df4a6d9301f61.jpg",
+        "preview_url": null,
+        "position": 4
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/6c8/6c8983d658a4a24dc8eb9d2f88f1dabf.jpg",
+        "preview_url": null,
+        "position": 5
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/92c/92cbe16a795afbc9d9837ed9eae4f22b.jpg",
+        "preview_url": null,
+        "position": 6
+      }
+    ],
+    "stores": [
+      {
+        "store_id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 5,
+        "name": "GOG",
+        "slug": "gog",
+        "domain": "gog.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      }
+    ],
+    "suggestions": [],
+    "series": [
+      {
+        "name": "Baldur's Gate II: Shadows of Amn",
+        "url": "https://rawg.io/games/baldurs-gate-ii-shadows-of-amn"
+      },
+      {
+        "name": "Baldur's Gate",
+        "url": "https://rawg.io/games/baldurs-gate"
+      },
+      {
+        "name": "Baldur's Gate II: Shadows of Amn",
+        "url": "https://rawg.io/games/baldurs-gate-ii-shadows-of-amn"
+      },
+      {
+        "name": "Baldur's Gate",
+        "url": "https://rawg.io/games/baldurs-gate"
+      }
+    ],
     "additions": []
   },
   {
@@ -7166,45 +7276,6 @@
     "additions": []
   },
   {
-    "id": 58806,
-    "slug": "satisfactory",
-    "name": "Satisfactory",
-    "cover_image": null,
-    "screenshot": "https://media.rawg.io/media/screenshots/f0e/f0e9306f7e943df673b069e757068ad2.jpg",
-    "released": "2024-09-11",
-    "rating": 4.3,
-    "metascore_number": null,
-    "metascore_color": null,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Strategy",
-      "Indie"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "website": null,
-    "age_rating": null,
-    "description": "",
-    "developers": [],
-    "publishers": [],
-    "tags": [],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/f0e/f0e9306f7e943df673b069e757068ad2.jpg",
-      "https://media.rawg.io/media/screenshots/b5b/b5b63069fb5ea1c580b59a8bfe46c80d.jpg",
-      "https://media.rawg.io/media/screenshots/2eb/2eb76c8a6803a630e7f710e4502abbac.jpg",
-      "https://media.rawg.io/media/screenshots/262/262f3ea08a5449be81be9054dd01ddf3.jpg",
-      "https://media.rawg.io/media/screenshots/07d/07d1da3af727e0ab836d9ba707f62054.jpg",
-      "https://media.rawg.io/media/screenshots/117/117cc08e3673fec4ced49d3815696f99.jpg"
-    ],
-    "media": [],
-    "stores": [],
-    "suggestions": [],
-    "series": [],
-    "additions": []
-  },
-  {
     "id": 616765,
     "slug": "guardians-of-the-galaxy",
     "name": "Marvel's Guardians of the Galaxy",
@@ -7498,6 +7569,119 @@
     ],
     "media": [],
     "stores": [],
+    "suggestions": [],
+    "series": [],
+    "additions": []
+  },
+  {
+    "id": 58806,
+    "slug": "satisfactory",
+    "name": "Satisfactory",
+    "cover_image": "https://media.rawg.io/media/games/9b0/9b03581c1ba7df63e221eb0828f8bb52.jpg",
+    "screenshot": "https://media.rawg.io/media/screenshots/f0e/f0e9306f7e943df673b069e757068ad2.jpg",
+    "released": "2024-09-11",
+    "rating": 4.29,
+    "metascore_number": null,
+    "metascore_color": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Strategy",
+      "Indie"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "website": "https://www.satisfactorygame.com/",
+    "age_rating": "Rating Pending",
+    "description": "FICSIT - AN INTRODUCTION\nWelcome to FICSIT Incorporated! A company specialised in the research, development and application of new technology and science, anything to find short-term solutions to long-term problems! As part of our brand-new Save The Day program, you’ll be sent to one of many alien planets in an effort to contribute to Project Assembly, a project I am legally bound to not tell you anything about for fear of our lives. And my job.\nAs an engineer and pioneer, you won’t only be constructing and automating the very factory that will contribute to Project Assembly, but also explore and exploit the planet and its inhabitants as you expand. Don’t worry, we’re super inclusive when it comes to alien lifeforms! We’ll even allow for pets, how cool is that!?\nJust don’t tell R&D.\nBelow you can find the three main pillars of your mission! Time to get to work, and Stay Effective!*\n*This motto is FICSIT Inc. property. Please do not use ironically.\nCONSTRUCT\nTo achieve company milestones according to satisfaction we expect you to construct your FICSIT Inc. factory in such a way that it allows for easy expansion and complexion. Not only will buildings grow more complex over time, so will the parts they produce. Project Assembly isn’t your average high-school science project. We’re making history here! Go big or go home!* Of course, this requires both high-level and low-level power management, good luck getting to nuclear! We even support stuff like multi-floor warehouses so you can stack your buildings, and a whole bunch of navigational constructs like jump pads and walkways! Walkways are the best. They’re attached to the ground and everything.\n*Employee will be expected to fund their own travel expenses\nAUTOMATE\nSo you know how your FICSIT Inc. factory can be turned into this incredibly intricate maze of conveyor belts in every direction, merging, splitting, crossing each other above and below? Conveyor belts carry, after all, the life-blood of our company! Well, since you’ll be in a pretty big area you’re going to need outposts. To make your life easier, we’ve developed self-driving trucks and trains so you can set up your very own transport system between any point in your area!\nEXPLORE & EXPLOIT\nR&D hasn’t figured out how to clone materials yet, weirdly enough, so you’re going to have to go out and use our patented method of extraterrestrial pioneering! This means exploring to find more or new stuff to exploit, to help expand your FICSIT Inc. factory. You’re on an uncharted alien planet, so try to be careful, don’t go alone if you don’t have to, and use protection! Who knows what kind of organisms have made this place their home? Or who knows what awesome treasures you’ll find? Don’t worry, this is why we assigned you your very own FICSIT Inc. handler.",
+    "developers": [
+      "Coffee Stain Studios"
+    ],
+    "publishers": [
+      "Coffee Stain Studios"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Multiplayer",
+      "Steam Cloud",
+      "Co-op",
+      "Open World",
+      "Partial Controller Support",
+      "Online Co-Op",
+      "Sandbox",
+      "Online multiplayer",
+      "Building",
+      "Base Building",
+      "Resource Management"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f0e/f0e9306f7e943df673b069e757068ad2.jpg",
+      "https://media.rawg.io/media/screenshots/b5b/b5b63069fb5ea1c580b59a8bfe46c80d.jpg",
+      "https://media.rawg.io/media/screenshots/2eb/2eb76c8a6803a630e7f710e4502abbac.jpg",
+      "https://media.rawg.io/media/screenshots/262/262f3ea08a5449be81be9054dd01ddf3.jpg",
+      "https://media.rawg.io/media/screenshots/07d/07d1da3af727e0ab836d9ba707f62054.jpg",
+      "https://media.rawg.io/media/screenshots/117/117cc08e3673fec4ced49d3815696f99.jpg"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/f0e/f0e9306f7e943df673b069e757068ad2.jpg",
+        "preview_url": null,
+        "position": 1
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/b5b/b5b63069fb5ea1c580b59a8bfe46c80d.jpg",
+        "preview_url": null,
+        "position": 2
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/2eb/2eb76c8a6803a630e7f710e4502abbac.jpg",
+        "preview_url": null,
+        "position": 3
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/262/262f3ea08a5449be81be9054dd01ddf3.jpg",
+        "preview_url": null,
+        "position": 4
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/07d/07d1da3af727e0ab836d9ba707f62054.jpg",
+        "preview_url": null,
+        "position": 5
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/117/117cc08e3673fec4ced49d3815696f99.jpg",
+        "preview_url": null,
+        "position": 6
+      }
+    ],
+    "stores": [
+      {
+        "store_id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 11,
+        "name": "Epic Games",
+        "slug": "epic-games",
+        "domain": "epicgames.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      }
+    ],
     "suggestions": [],
     "series": [],
     "additions": []
