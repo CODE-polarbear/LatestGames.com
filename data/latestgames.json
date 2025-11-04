@@ -2008,6 +2008,14 @@
       {
         "name": "Baldur's Gate",
         "url": "https://rawg.io/games/baldurs-gate"
+      },
+      {
+        "name": "Baldur's Gate II: Shadows of Amn",
+        "url": "https://rawg.io/games/baldurs-gate-ii-shadows-of-amn"
+      },
+      {
+        "name": "Baldur's Gate",
+        "url": "https://rawg.io/games/baldurs-gate"
       }
     ],
     "additions": []
