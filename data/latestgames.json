@@ -10659,7 +10659,7 @@
       "Web"
     ],
     "website": "https://vampiresurvivors.io/",
-    "age_rating": null,
+    "age_rating": "N/A",
     "description": "Vampire Survivors is currently a time survival game with minimalistic gameplay and roguelite elements.\nThere's no place where to hide, all you can do is try to survive a cursed night and get as much gold as possible for the next survivor, before Death inevitably puts an end to your struggles.\nContent in the early access version:7 characters\n22 weapons and 12 power-ups\n10 pickups\n23 achievements\n1 stage\nSupports mouse, keyboard, controller, and touch screen.\nStarting tips:Take your time to grab gems and items, they won't disappear.\nGet just two or three offensive weapons, but focus on leveling them up one at a time.\nArmor and Luck are good starting power-ups to spend money on.",
     "developers": [
       "poncle"
@@ -12230,12 +12230,12 @@
     "id": 452638,
     "slug": "stray-2",
     "name": "Stray",
-    "cover_image": null,
+    "cover_image": "https://media.rawg.io/media/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg",
     "screenshot": "https://media.rawg.io/media/screenshots/6c9/6c9d036518f78895ddf552d2cb7421d6.jpg",
     "released": "2022-07-19",
     "rating": 4.15,
-    "metascore_number": null,
-    "metascore_color": null,
+    "metascore_number": 82,
+    "metascore_color": "green",
     "genres": [
       "Action",
       "Adventure",
@@ -12252,19 +12252,113 @@
       "PlayStation 5",
       "PlayStation 4"
     ],
-    "website": null,
-    "age_rating": null,
-    "description": "",
-    "developers": [],
-    "publishers": [],
-    "tags": [],
+    "website": "https://stray.game/",
+    "age_rating": "Everyone 10+",
+    "description": "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten city.\n\nStray is a third-person cat adventure game set amidst the detailed, neon-lit alleys of a decaying cybercity and the murky environments of its seedy underbelly. Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by curious droids and dangerous creatures.\n\nSee the world through the eyes of a cat and interact with the environment in playful ways. Be stealthy, nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this mysterious world.\n\nAlong the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo must find a way out.\n\nStray is developed by BlueTwelve Studio, a small team from the south of France mostly made up of cats and a handful of humans.",
+    "developers": [
+      "BlueTwelve",
+      "BlueTwelve Studio"
+    ],
+    "publishers": [
+      "Annapurna Interactive"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Atmospheric",
+      "Open World",
+      "Third Person",
+      "Sci-fi",
+      "Horror",
+      "Exploration",
+      "Stealth",
+      "exclusive",
+      "Cute",
+      "Mystery",
+      "Colorful",
+      "Cyberpunk",
+      "Dystopian",
+      "Steam Trading Cards",
+      "Robots",
+      "Beautiful",
+      "Remote Play on TV",
+      "cats",
+      "Котики"
+    ],
     "screenshots": [
       "https://media.rawg.io/media/screenshots/6c9/6c9d036518f78895ddf552d2cb7421d6.jpg",
       "https://media.rawg.io/media/screenshots/444/44480d0f02c17e41dd1d9b58affad214.jpg",
       "https://media.rawg.io/media/screenshots/e38/e38f600f4ad9145d0bcba128064503db.jpg"
     ],
-    "media": [],
-    "stores": [],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/6c9/6c9d036518f78895ddf552d2cb7421d6.jpg",
+        "preview_url": null,
+        "position": 1
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/444/44480d0f02c17e41dd1d9b58affad214.jpg",
+        "preview_url": null,
+        "position": 2
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/e38/e38f600f4ad9145d0bcba128064503db.jpg",
+        "preview_url": null,
+        "position": 3
+      }
+    ],
+    "stores": [
+      {
+        "store_id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 2,
+        "name": "Xbox Store",
+        "slug": "xbox-store",
+        "domain": "microsoft.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 4,
+        "name": "App Store",
+        "slug": "apple-appstore",
+        "domain": "apps.apple.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 6,
+        "name": "Nintendo Store",
+        "slug": "nintendo",
+        "domain": "nintendo.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      }
+    ],
     "suggestions": [],
     "series": [],
     "additions": []
@@ -21729,6 +21823,86 @@
     ],
     "suggestions": [],
     "series": [
+      {
+        "name": "Harry Potter: Quidditch Champions",
+        "url": "https://rawg.io/games/harry-potter-quidditch-champions"
+      },
+      {
+        "name": "Harry Potter: Magic Awakened",
+        "url": "https://rawg.io/games/harry-potter-magic-awakened"
+      },
+      {
+        "name": "The Henry Stickmin Collection",
+        "url": "https://rawg.io/games/the-henry-stickmin-collection"
+      },
+      {
+        "name": "Harry Potter: Hogwarts Mystery",
+        "url": "https://rawg.io/games/harry-potter-hogwarts-mystery"
+      },
+      {
+        "name": "Pottermore",
+        "url": "https://rawg.io/games/pottermore"
+      },
+      {
+        "name": "Harry Potter and the Deathly Hallows: Part 2",
+        "url": "https://rawg.io/games/harry-potter-and-the-deathly-hallows-part-2"
+      },
+      {
+        "name": "Harry Potter and the Deathly Hallows: Part 1",
+        "url": "https://rawg.io/games/harry-potter-and-the-deathly-hallows-part-1"
+      },
+      {
+        "name": "Harry Potter and the Half-Blood Prince",
+        "url": "https://rawg.io/games/harry-potter-and-the-half-blood-prince"
+      },
+      {
+        "name": "Harry Potter and the Order of the Phoenix",
+        "url": "https://rawg.io/games/harry-potter-and-the-order-of-the-phoenix"
+      },
+      {
+        "name": "Harry Potter and the Goblet of Fire",
+        "url": "https://rawg.io/games/harry-potter-and-the-goblet-of-fire"
+      },
+      {
+        "name": "Harry Potter: Quidditch Champions",
+        "url": "https://rawg.io/games/harry-potter-quidditch-champions"
+      },
+      {
+        "name": "Harry Potter: Magic Awakened",
+        "url": "https://rawg.io/games/harry-potter-magic-awakened"
+      },
+      {
+        "name": "The Henry Stickmin Collection",
+        "url": "https://rawg.io/games/the-henry-stickmin-collection"
+      },
+      {
+        "name": "Harry Potter: Hogwarts Mystery",
+        "url": "https://rawg.io/games/harry-potter-hogwarts-mystery"
+      },
+      {
+        "name": "Pottermore",
+        "url": "https://rawg.io/games/pottermore"
+      },
+      {
+        "name": "Harry Potter and the Deathly Hallows: Part 2",
+        "url": "https://rawg.io/games/harry-potter-and-the-deathly-hallows-part-2"
+      },
+      {
+        "name": "Harry Potter and the Deathly Hallows: Part 1",
+        "url": "https://rawg.io/games/harry-potter-and-the-deathly-hallows-part-1"
+      },
+      {
+        "name": "Harry Potter and the Half-Blood Prince",
+        "url": "https://rawg.io/games/harry-potter-and-the-half-blood-prince"
+      },
+      {
+        "name": "Harry Potter and the Order of the Phoenix",
+        "url": "https://rawg.io/games/harry-potter-and-the-order-of-the-phoenix"
+      },
+      {
+        "name": "Harry Potter and the Goblet of Fire",
+        "url": "https://rawg.io/games/harry-potter-and-the-goblet-of-fire"
+      },
       {
         "name": "Harry Potter: Quidditch Champions",
         "url": "https://rawg.io/games/harry-potter-quidditch-champions"
