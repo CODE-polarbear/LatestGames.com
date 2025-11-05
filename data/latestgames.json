@@ -642,12 +642,12 @@
     "id": 3990,
     "slug": "the-last-of-us",
     "name": "The Last Of Us",
-    "cover_image": null,
+    "cover_image": "https://media.rawg.io/media/games/a5a/a5a7fb8d9cb8063a8b42ee002b410db6.jpg",
     "screenshot": "https://media.rawg.io/media/screenshots/e58/e5851e0c9b08172369dc1a1814b1c275.jpg",
     "released": "2013-06-14",
     "rating": 4.54,
-    "metascore_number": null,
-    "metascore_color": null,
+    "metascore_number": 95,
+    "metascore_color": "green",
     "genres": [
       "Action",
       "Adventure"
@@ -656,12 +656,18 @@
       "PlayStation 3",
       "PlayStation 4"
     ],
-    "website": null,
-    "age_rating": null,
-    "description": "",
-    "developers": [],
-    "publishers": [],
-    "tags": [],
+    "website": "http://www.thelastofus.playstation.com/",
+    "age_rating": "17+ Mature",
+    "description": "The population of the Earth almost disappeared as a result of a pandemic caused by a mutated fungus. The disease causes irreversible changes in the human body, a person loses his mind and behaves aggressively, like a zombie. Civilization no longer exists, few survivors live in isolation under the protection of the military.\nCities outside the zones are dangerous ruins inhabited by infected people and people who have almost lost humanity.\nHeroes, the smuggler Joel and teenage girl Ellie, are trying to cross the continent, colliding in depopulated cities with all the set of dangers. The game requires hidden actions, the combat capability and the number of ammunition of the heroes are small, and it is best for them to avoid fighting. For most of the game, the player controls Joel, while Ellie and Joel's other companions are controlled by artificial intelligence.\nThe levels of the game are very extensive, at each level the task is the same - to reach a certain point alive.\n\nCharacters have something like a shotgun pistol, bow and arrow, as well as improvised items - pipes, sticks, baseball bats.\nFrom time to time, it is necessary to solve the problem of perceptiveness.\nArtificial intelligence, which controls opponents, can behave differently depending on the situation.",
+    "developers": [
+      "Naughty Dog"
+    ],
+    "publishers": [
+      "Sony Computer Entertainment"
+    ],
+    "tags": [
+      "exclusive"
+    ],
     "screenshots": [
       "https://media.rawg.io/media/screenshots/e58/e5851e0c9b08172369dc1a1814b1c275.jpg",
       "https://media.rawg.io/media/screenshots/4a8/4a8bc73ffc37e6794fd962736d0a5436.jpg",
@@ -670,11 +676,84 @@
       "https://media.rawg.io/media/screenshots/e2e/e2e3d4facc46efbded4898106db91cc6.jpg",
       "https://media.rawg.io/media/screenshots/d07/d077fc6929186334ef47716abd5fd119.jpg"
     ],
-    "media": [],
-    "stores": [],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/e58/e5851e0c9b08172369dc1a1814b1c275.jpg",
+        "preview_url": null,
+        "position": 1
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/4a8/4a8bc73ffc37e6794fd962736d0a5436.jpg",
+        "preview_url": null,
+        "position": 2
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/fd5/fd5e75708c5d123519f5329344d0a376.jpg",
+        "preview_url": null,
+        "position": 3
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/bf4/bf4453d613de19b737fbd5e6f5e1a069.jpg",
+        "preview_url": null,
+        "position": 4
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/e2e/e2e3d4facc46efbded4898106db91cc6.jpg",
+        "preview_url": null,
+        "position": 5
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/d07/d077fc6929186334ef47716abd5fd119.jpg",
+        "preview_url": null,
+        "position": 6
+      }
+    ],
+    "stores": [
+      {
+        "store_id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      }
+    ],
     "suggestions": [],
-    "series": [],
-    "additions": []
+    "series": [
+      {
+        "name": "The Last of Us Part II",
+        "url": "https://rawg.io/games/the-last-of-us-part-2"
+      }
+    ],
+    "additions": [
+      {
+        "name": "The Last of Us Part I",
+        "url": "https://rawg.io/games/the-last-of-us-part-i"
+      },
+      {
+        "name": "The Last of Us: Left Behind Stand Alone",
+        "url": "https://rawg.io/games/the-last-of-us-left-behind-stand-alone"
+      },
+      {
+        "name": "The Last Of Us Remastered",
+        "url": "https://rawg.io/games/the-last-of-us-remastered"
+      },
+      {
+        "name": "The Last of Us: Reclaimed Territories",
+        "url": "https://rawg.io/games/the-last-of-us-reclaimed-territories"
+      },
+      {
+        "name": "The Last of Us: Left Behind",
+        "url": "https://rawg.io/games/the-last-of-us-left-behind"
+      }
+    ]
   },
   {
     "id": 1452,
@@ -21831,6 +21910,46 @@
     ],
     "suggestions": [],
     "series": [
+      {
+        "name": "Harry Potter: Quidditch Champions",
+        "url": "https://rawg.io/games/harry-potter-quidditch-champions"
+      },
+      {
+        "name": "Harry Potter: Magic Awakened",
+        "url": "https://rawg.io/games/harry-potter-magic-awakened"
+      },
+      {
+        "name": "The Henry Stickmin Collection",
+        "url": "https://rawg.io/games/the-henry-stickmin-collection"
+      },
+      {
+        "name": "Harry Potter: Hogwarts Mystery",
+        "url": "https://rawg.io/games/harry-potter-hogwarts-mystery"
+      },
+      {
+        "name": "Pottermore",
+        "url": "https://rawg.io/games/pottermore"
+      },
+      {
+        "name": "Harry Potter and the Deathly Hallows: Part 2",
+        "url": "https://rawg.io/games/harry-potter-and-the-deathly-hallows-part-2"
+      },
+      {
+        "name": "Harry Potter and the Deathly Hallows: Part 1",
+        "url": "https://rawg.io/games/harry-potter-and-the-deathly-hallows-part-1"
+      },
+      {
+        "name": "Harry Potter and the Half-Blood Prince",
+        "url": "https://rawg.io/games/harry-potter-and-the-half-blood-prince"
+      },
+      {
+        "name": "Harry Potter and the Order of the Phoenix",
+        "url": "https://rawg.io/games/harry-potter-and-the-order-of-the-phoenix"
+      },
+      {
+        "name": "Harry Potter and the Goblet of Fire",
+        "url": "https://rawg.io/games/harry-potter-and-the-goblet-of-fire"
+      },
       {
         "name": "Harry Potter: Quidditch Champions",
         "url": "https://rawg.io/games/harry-potter-quidditch-champions"
