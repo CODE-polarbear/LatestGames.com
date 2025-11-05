@@ -3,12 +3,12 @@
     "id": 339958,
     "slug": "persona-5-royal",
     "name": "Persona 5 Royal",
-    "cover_image": null,
+    "cover_image": "https://media.rawg.io/media/games/a9c/a9c789951de65da545d51f664b4f2ce0.jpg",
     "screenshot": "https://media.rawg.io/media/screenshots/e70/e701311c431504ccd8653a5243188a13.jpg",
     "released": "2020-03-31",
-    "rating": 4.75,
-    "metascore_number": null,
-    "metascore_color": null,
+    "rating": 4.76,
+    "metascore_number": 94,
+    "metascore_color": "green",
     "genres": [
       "Adventure",
       "RPG"
@@ -21,12 +21,41 @@
       "Xbox One",
       "PlayStation 4"
     ],
-    "website": null,
-    "age_rating": null,
-    "description": "",
-    "developers": [],
-    "publishers": [],
-    "tags": [],
+    "website": "https://atlus.com/p5r/",
+    "age_rating": "17+ Mature",
+    "description": "Wear the mask.  Reveal your truth.\nPrepare for an all-new RPG experience in Persona®5 Royal based in the universe of the award-winning series, Persona®! Don the mask of Joker and join the Phantom Thieves of Hearts. Break free from the chains of modern society and stage grand heists to infiltrate the minds of the corrupt and make them change their ways! Persona®5 Royal is packed with new characters, story depth, new locations to explore, & a new grappling hook mechanic for access to new areas. With a new semester at Shujin Academy, get ready to strengthen your abilities in the metaverse and in your daily life. Persona®5 Royal presents a unique visual style and award nominated composer Shoji Meguro returns with an all-new soundtrack. Explore Tokyo, unlock new Personas, customize your own personal Thieves Den, discover a never-before-seen story arc, cutscenes, alternate endings, and more!",
+    "developers": [
+      "Atlus"
+    ],
+    "publishers": [
+      "SEGA",
+      "Atlus"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Great Soundtrack",
+      "RPG",
+      "Story Rich",
+      "Violent",
+      "Anime",
+      "Colorful",
+      "Turn-Based Strategy",
+      "Sexual Content",
+      "Multiple Endings",
+      "Steam Trading Cards",
+      "Visual Novel",
+      "JRPG",
+      "Detective",
+      "Turn-Based Combat",
+      "Heist",
+      "Emotional",
+      "Dating Sim",
+      "Party-Based RPG",
+      "Soundtrack"
+    ],
     "screenshots": [
       "https://media.rawg.io/media/screenshots/e70/e701311c431504ccd8653a5243188a13.jpg",
       "https://media.rawg.io/media/screenshots/5af/5af7efeca549b9a768870c52eff7e128.jpg",
@@ -35,8 +64,73 @@
       "https://media.rawg.io/media/screenshots/b26/b2604ecc559bccfb72dca2c869f53b63.jpg",
       "https://media.rawg.io/media/screenshots/625/6255fc2f2c07d92c06150a4fa7b1ead3.jpg"
     ],
-    "media": [],
-    "stores": [],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/e70/e701311c431504ccd8653a5243188a13.jpg",
+        "preview_url": null,
+        "position": 1
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/5af/5af7efeca549b9a768870c52eff7e128.jpg",
+        "preview_url": null,
+        "position": 2
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/fff/fff1f025d1390753810154b7a40f5bad.jpg",
+        "preview_url": null,
+        "position": 3
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/36d/36dac15fbe4556d5ae062ff102ce3461.jpg",
+        "preview_url": null,
+        "position": 4
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/b26/b2604ecc559bccfb72dca2c869f53b63.jpg",
+        "preview_url": null,
+        "position": 5
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/625/6255fc2f2c07d92c06150a4fa7b1ead3.jpg",
+        "preview_url": null,
+        "position": 6
+      }
+    ],
+    "stores": [
+      {
+        "store_id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 6,
+        "name": "Nintendo Store",
+        "slug": "nintendo",
+        "domain": "nintendo.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      }
+    ],
     "suggestions": [],
     "series": [],
     "additions": []
@@ -45,12 +139,12 @@
     "id": 3636,
     "slug": "the-last-of-us-remastered",
     "name": "The Last Of Us Remastered",
-    "cover_image": null,
+    "cover_image": "https://media.rawg.io/media/games/364/3642d850efb217c58feab80b8affaa89.jpg",
     "screenshot": "https://media.rawg.io/media/screenshots/5a7/5a74e852355169e1767f3b59d5488829.jpeg",
     "released": "2014-07-29",
     "rating": 4.69,
-    "metascore_number": null,
-    "metascore_color": null,
+    "metascore_number": 95,
+    "metascore_color": "green",
     "genres": [
       "Action",
       "Adventure"
@@ -58,12 +152,26 @@
     "platforms": [
       "PlayStation 4"
     ],
-    "website": null,
-    "age_rating": null,
-    "description": "",
-    "developers": [],
-    "publishers": [],
-    "tags": [],
+    "website": "https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/",
+    "age_rating": "17+ Mature",
+    "description": "The Last of Us is a post-apocalypse 3rd person adventure with a distinct focus on naturalness and photorealistic graphics. It is the first title in the IP, followed by the second part, coming out in 2019 by Naughty Dog, mostly known for 'Crash Bandicoot' and 'Uncharted' series.\r\nYou play as Joel, delivering small requests in America, the year 2033, precisely 20 years after Cordyceps fungus catastrophe which have turned human hosts into infected shrooms. Your next quest is to deliver 14 years-old Ellie, immune to the virus to the hospital in the other end of a state. It is a usual story of two characters getting along throughout their journey.\r\nYou need to fight fungus infected and usual soldiers, patrolling the territory — ammo and health are of the essence here, because it is post-apocalypse and everyone is short of resources. You face multiple encounters with bosses, various traps, and numerous puzzles. Let alone the number of collectibles telling a complete story of an epidemic world.",
+    "developers": [
+      "Naughty Dog"
+    ],
+    "publishers": [
+      "Sony Computer Entertainment"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Atmospheric",
+      "Survival",
+      "Stealth",
+      "Action-Adventure",
+      "Action RPG",
+      "Zombies",
+      "exclusive",
+      "3rd-Person Perspective"
+    ],
     "screenshots": [
       "https://media.rawg.io/media/screenshots/5a7/5a74e852355169e1767f3b59d5488829.jpeg",
       "https://media.rawg.io/media/screenshots/a4b/a4b8e8d4d56d1889f76872da7364e406.jpeg",
@@ -72,8 +180,55 @@
       "https://media.rawg.io/media/screenshots/5c9/5c9c1f58a945bb06f5467587a9d6d0e4.jpeg",
       "https://media.rawg.io/media/screenshots/6ea/6ea8e1f3d812f7218f9205c1dd658147.jpeg"
     ],
-    "media": [],
-    "stores": [],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/5a7/5a74e852355169e1767f3b59d5488829.jpeg",
+        "preview_url": null,
+        "position": 1
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/a4b/a4b8e8d4d56d1889f76872da7364e406.jpeg",
+        "preview_url": null,
+        "position": 2
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/1ba/1babd5640e3eed7646b6f2834daab303.jpeg",
+        "preview_url": null,
+        "position": 3
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/9ce/9ce9018611e2931782b87ef8b4bcd012.jpeg",
+        "preview_url": null,
+        "position": 4
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/5c9/5c9c1f58a945bb06f5467587a9d6d0e4.jpeg",
+        "preview_url": null,
+        "position": 5
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/6ea/6ea8e1f3d812f7218f9205c1dd658147.jpeg",
+        "preview_url": null,
+        "position": 6
+      }
+    ],
+    "stores": [
+      {
+        "store_id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      }
+    ],
     "suggestions": [],
     "series": [],
     "additions": []
@@ -291,6 +446,144 @@
     ]
   },
   {
+    "id": 516111,
+    "slug": "mass-effect-legendary-edition",
+    "name": "Mass Effect: Legendary Edition",
+    "cover_image": "https://media.rawg.io/media/games/64e/64e2a77f37ddc48d102127234af99886.jpg",
+    "screenshot": "https://media.rawg.io/media/screenshots/dfc/dfc2297daea764355a7fa2771d173703.jpg",
+    "released": "2021-05-14",
+    "rating": 4.58,
+    "metascore_number": 88,
+    "metascore_color": "green",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series S/X",
+      "PlayStation 4",
+      "PC",
+      "Xbox One"
+    ],
+    "website": "https://www.ea.com/games/mass-effect/mass-effect-legendary-edition",
+    "age_rating": "17+ Mature",
+    "description": "One person is all that stands between humanity and the greatest threat it’s ever faced. Relive the legend of Commander Shepard in the highly acclaimed Mass Effect trilogy with the Mass Effect™ Legendary Edition. Includes single-player base content and DLC from Mass Effect, Mass Effect 2, and Mass Effect 3, plus promo weapons, armors, and packs - all remastered and optimized for 4k Ultra HD.",
+    "developers": [
+      "BioWare",
+      "EA Swiss"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Atmospheric",
+      "Great Soundtrack",
+      "RPG",
+      "Story Rich",
+      "Sci-fi",
+      "Classic",
+      "Female Protagonist",
+      "Action RPG",
+      "Third-Person Shooter",
+      "Space",
+      "Nudity",
+      "Character Customization",
+      "Choices Matter",
+      "combat",
+      "Military",
+      "Sexual Content",
+      "Steam Trading Cards",
+      "Протагонистка",
+      "Tactical RPG",
+      "Remote Play on TV",
+      "ea play"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/dfc/dfc2297daea764355a7fa2771d173703.jpg",
+      "https://media.rawg.io/media/screenshots/e4d/e4dae9c803e11cde07423bec1a324c0e.jpg",
+      "https://media.rawg.io/media/screenshots/09b/09b34e452541b996ee6bba894710407d.jpg",
+      "https://media.rawg.io/media/screenshots/e84/e84539cca8f01e475ca8537440e6bfa7.jpg",
+      "https://media.rawg.io/media/screenshots/8d7/8d7c186df52bc6395164d5d174338886.jpg",
+      "https://media.rawg.io/media/screenshots/dad/dade4bdbac873f7e6afa4b749810a957.jpg"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/dfc/dfc2297daea764355a7fa2771d173703.jpg",
+        "preview_url": null,
+        "position": 1
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/e4d/e4dae9c803e11cde07423bec1a324c0e.jpg",
+        "preview_url": null,
+        "position": 2
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/09b/09b34e452541b996ee6bba894710407d.jpg",
+        "preview_url": null,
+        "position": 3
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/e84/e84539cca8f01e475ca8537440e6bfa7.jpg",
+        "preview_url": null,
+        "position": 4
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/8d7/8d7c186df52bc6395164d5d174338886.jpg",
+        "preview_url": null,
+        "position": 5
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/dad/dade4bdbac873f7e6afa4b749810a957.jpg",
+        "preview_url": null,
+        "position": 6
+      }
+    ],
+    "stores": [
+      {
+        "store_id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 2,
+        "name": "Xbox Store",
+        "slug": "xbox-store",
+        "domain": "microsoft.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      }
+    ],
+    "suggestions": [],
+    "series": [],
+    "additions": []
+  },
+  {
     "id": 4200,
     "slug": "portal-2",
     "name": "Portal 2",
@@ -478,49 +771,6 @@
         "url": "https://rawg.io/games/portal-2-in-motion"
       }
     ]
-  },
-  {
-    "id": 516111,
-    "slug": "mass-effect-legendary-edition",
-    "name": "Mass Effect: Legendary Edition",
-    "cover_image": null,
-    "screenshot": "https://media.rawg.io/media/screenshots/dfc/dfc2297daea764355a7fa2771d173703.jpg",
-    "released": "2021-05-14",
-    "rating": 4.57,
-    "metascore_number": null,
-    "metascore_color": null,
-    "genres": [
-      "Action",
-      "Shooter",
-      "Adventure",
-      "RPG"
-    ],
-    "platforms": [
-      "PlayStation 5",
-      "Xbox Series S/X",
-      "PlayStation 4",
-      "PC",
-      "Xbox One"
-    ],
-    "website": null,
-    "age_rating": null,
-    "description": "",
-    "developers": [],
-    "publishers": [],
-    "tags": [],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/dfc/dfc2297daea764355a7fa2771d173703.jpg",
-      "https://media.rawg.io/media/screenshots/e4d/e4dae9c803e11cde07423bec1a324c0e.jpg",
-      "https://media.rawg.io/media/screenshots/09b/09b34e452541b996ee6bba894710407d.jpg",
-      "https://media.rawg.io/media/screenshots/e84/e84539cca8f01e475ca8537440e6bfa7.jpg",
-      "https://media.rawg.io/media/screenshots/8d7/8d7c186df52bc6395164d5d174338886.jpg",
-      "https://media.rawg.io/media/screenshots/dad/dade4bdbac873f7e6afa4b749810a957.jpg"
-    ],
-    "media": [],
-    "stores": [],
-    "suggestions": [],
-    "series": [],
-    "additions": []
   },
   {
     "id": 58175,
@@ -730,9 +980,57 @@
       {
         "name": "The Last of Us Part II",
         "url": "https://rawg.io/games/the-last-of-us-part-2"
+      },
+      {
+        "name": "The Last of Us Part II",
+        "url": "https://rawg.io/games/the-last-of-us-part-2"
+      },
+      {
+        "name": "The Last of Us Part II",
+        "url": "https://rawg.io/games/the-last-of-us-part-2"
       }
     ],
     "additions": [
+      {
+        "name": "The Last of Us Part I",
+        "url": "https://rawg.io/games/the-last-of-us-part-i"
+      },
+      {
+        "name": "The Last of Us: Left Behind Stand Alone",
+        "url": "https://rawg.io/games/the-last-of-us-left-behind-stand-alone"
+      },
+      {
+        "name": "The Last Of Us Remastered",
+        "url": "https://rawg.io/games/the-last-of-us-remastered"
+      },
+      {
+        "name": "The Last of Us: Reclaimed Territories",
+        "url": "https://rawg.io/games/the-last-of-us-reclaimed-territories"
+      },
+      {
+        "name": "The Last of Us: Left Behind",
+        "url": "https://rawg.io/games/the-last-of-us-left-behind"
+      },
+      {
+        "name": "The Last of Us Part I",
+        "url": "https://rawg.io/games/the-last-of-us-part-i"
+      },
+      {
+        "name": "The Last of Us: Left Behind Stand Alone",
+        "url": "https://rawg.io/games/the-last-of-us-left-behind-stand-alone"
+      },
+      {
+        "name": "The Last Of Us Remastered",
+        "url": "https://rawg.io/games/the-last-of-us-remastered"
+      },
+      {
+        "name": "The Last of Us: Reclaimed Territories",
+        "url": "https://rawg.io/games/the-last-of-us-reclaimed-territories"
+      },
+      {
+        "name": "The Last of Us: Left Behind",
+        "url": "https://rawg.io/games/the-last-of-us-left-behind"
+      },
       {
         "name": "The Last of Us Part I",
         "url": "https://rawg.io/games/the-last-of-us-part-i"
@@ -808,12 +1106,12 @@
     "id": 58813,
     "slug": "resident-evil-2-2019",
     "name": "Resident Evil 2",
-    "cover_image": null,
+    "cover_image": "https://media.rawg.io/media/games/053/053fc543bf488349610f1ae2d0c1b51b.jpg",
     "screenshot": "https://media.rawg.io/media/screenshots/9e6/9e6e83b37dfd176eab77a829c5c7a109.jpg",
     "released": "2019-01-25",
     "rating": 4.5,
-    "metascore_number": null,
-    "metascore_color": null,
+    "metascore_number": 91,
+    "metascore_color": "green",
     "genres": [
       "Action",
       "Shooter",
@@ -827,12 +1125,24 @@
       "macOS",
       "Xbox One"
     ],
-    "website": null,
-    "age_rating": null,
-    "description": "",
-    "developers": [],
-    "publishers": [],
-    "tags": [],
+    "website": "http://www.residentevil2.com",
+    "age_rating": "17+ Mature",
+    "description": "Resident Evil 2 is the remake of the 1998 game of the same name. \n\n###Plot\nThe plot of the remake is identical to that of the original game. The story follows the survivors of a zombie virus outbreak in the fictional Raccoon City. There are two protagonists: Claire Redfield, a high school student, and Leon Kennedy, a policeman. They both search for the ways to escape the infested city. Companions, such as Ada Wong and Sherry, occasionally follow the protagonists. The characters eventually uncover the dark secrets of the Umbrella Corporation, which created the virus as a biological weapon, and fight its monsters, such as the Tyrant.\n\n###Gameplay\nThe player controls either Leon or Claire from the third person view in a 3D environment. The two protagonists' storylines are intertwined. The player can complete the scenario playing one of the protagonists, and then replay it from the other character's POV, with all his previous actions taken into account. The game combines puzzle solving with zombie fights. Both protagonists use firearms as their main weapon; however, ammo is scarce.\n\n###Changes from the original\nBesides the updated graphics, the remake features a new camera and controls. In the original game, the controls were relative to the position of the player's character rather than the camera. The remake uses an over the shoulder camera, and the movements are relative to its angle. There's also no more loading screens, and the characters move between locations seamlessly.",
+    "developers": [
+      "Capcom"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "tags": [
+      "Atmospheric",
+      "Horror",
+      "Action-Adventure",
+      "Zombies",
+      "Survival Horror",
+      "Remake",
+      "quest"
+    ],
     "screenshots": [
       "https://media.rawg.io/media/screenshots/9e6/9e6e83b37dfd176eab77a829c5c7a109.jpg",
       "https://media.rawg.io/media/screenshots/ca6/ca6629a8a4565b8ae7816ffcb4d38657.jpg",
@@ -841,11 +1151,130 @@
       "https://media.rawg.io/media/screenshots/4bf/4bf2b3c6822715ec3b01882e0cf97572.jpg",
       "https://media.rawg.io/media/screenshots/bdb/bdbf60136aad78a718679d2f1ac317f9.jpg"
     ],
-    "media": [],
-    "stores": [],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/9e6/9e6e83b37dfd176eab77a829c5c7a109.jpg",
+        "preview_url": null,
+        "position": 1
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/ca6/ca6629a8a4565b8ae7816ffcb4d38657.jpg",
+        "preview_url": null,
+        "position": 2
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/df4/df450d260b14fb77ac238d77fe98746d.jpg",
+        "preview_url": null,
+        "position": 3
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/fac/facb42731a6cc48e8fdfaef995f3ed71.jpg",
+        "preview_url": null,
+        "position": 4
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/4bf/4bf2b3c6822715ec3b01882e0cf97572.jpg",
+        "preview_url": null,
+        "position": 5
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/bdb/bdbf60136aad78a718679d2f1ac317f9.jpg",
+        "preview_url": null,
+        "position": 6
+      }
+    ],
+    "stores": [
+      {
+        "store_id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 2,
+        "name": "Xbox Store",
+        "slug": "xbox-store",
+        "domain": "microsoft.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      }
+    ],
     "suggestions": [],
-    "series": [],
-    "additions": []
+    "series": [
+      {
+        "name": "Resident Evil 4",
+        "url": "https://rawg.io/games/resident-evil-4-2023"
+      },
+      {
+        "name": "Resident Evil: Village",
+        "url": "https://rawg.io/games/resident-evil-village"
+      },
+      {
+        "name": "Resident Evil 3",
+        "url": "https://rawg.io/games/resident-evil-3"
+      },
+      {
+        "name": "Resident Evil 7: Biohazard",
+        "url": "https://rawg.io/games/resident-evil-7-biohazard"
+      },
+      {
+        "name": "Umbrella Corps /Biohazard Umbrella Corps",
+        "url": "https://rawg.io/games/umbrella-corps"
+      },
+      {
+        "name": "Resident Evil Revelations 2",
+        "url": "https://rawg.io/games/re-revelations-2"
+      },
+      {
+        "name": "Resident Evil 6",
+        "url": "https://rawg.io/games/resident-evil-6"
+      },
+      {
+        "name": "Resident Evil: Operation Raccoon City",
+        "url": "https://rawg.io/games/resident-evil-operation-raccoon-city-2"
+      },
+      {
+        "name": "Resident Evil Revelations",
+        "url": "https://rawg.io/games/resident-evil-revelations-biohazard-revelations"
+      },
+      {
+        "name": "Resident Evil: The Darkside Chronicles",
+        "url": "https://rawg.io/games/resident-evil-the-darkside-chronicles-2"
+      }
+    ],
+    "additions": [
+      {
+        "name": "RESIDENT EVIL 2 R.P.D. Demo",
+        "url": "https://rawg.io/games/resident-evil-2-rpd-demo"
+      },
+      {
+        "name": "BIOHAZARD RE:2 Z Version",
+        "url": "https://rawg.io/games/biohazard-re2-z-version"
+      },
+      {
+        "name": "Resident Evil 2 (1-Shot Demo)",
+        "url": "https://rawg.io/games/resident-evil-2-biohazard-re2-1-shot-demo"
+      }
+    ]
   },
   {
     "id": 416,
@@ -966,45 +1395,6 @@
         "url": "https://rawg.io/games/grand-theft-auto-san-andreas-the-definitive-editio"
       }
     ]
-  },
-  {
-    "id": 22511,
-    "slug": "the-legend-of-zelda-breath-of-the-wild",
-    "name": "The Legend of Zelda: Breath of the Wild",
-    "cover_image": null,
-    "screenshot": "https://media.rawg.io/media/screenshots/3c4/3c4a8f6b1994def75e73e1cb64624e7f.jpg",
-    "released": "2017-03-03",
-    "rating": 4.49,
-    "metascore_number": null,
-    "metascore_color": null,
-    "genres": [
-      "Action",
-      "Adventure",
-      "RPG"
-    ],
-    "platforms": [
-      "Nintendo Switch",
-      "Wii U"
-    ],
-    "website": null,
-    "age_rating": null,
-    "description": "",
-    "developers": [],
-    "publishers": [],
-    "tags": [],
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/3c4/3c4a8f6b1994def75e73e1cb64624e7f.jpg",
-      "https://media.rawg.io/media/screenshots/8f5/8f5d4264b12090bb7aa5626fcfb5be18.jpg",
-      "https://media.rawg.io/media/screenshots/b77/b771adc0585c655f8a747d3160e5325a.jpg",
-      "https://media.rawg.io/media/screenshots/ef7/ef7d89471e5c0dc5553c249b2c34d9cd.jpg",
-      "https://media.rawg.io/media/screenshots/1e5/1e58e8a064da6906f09dba1edb3fdea6.jpg",
-      "https://media.rawg.io/media/screenshots/bef/bef44f5547b97d44c5e14f8773f9876c.jpg"
-    ],
-    "media": [],
-    "stores": [],
-    "suggestions": [],
-    "series": [],
-    "additions": []
   },
   {
     "id": 1314,
@@ -1314,6 +1704,143 @@
     "stores": [],
     "suggestions": [],
     "series": [],
+    "additions": []
+  },
+  {
+    "id": 22511,
+    "slug": "the-legend-of-zelda-breath-of-the-wild",
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "cover_image": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg",
+    "screenshot": "https://media.rawg.io/media/screenshots/3c4/3c4a8f6b1994def75e73e1cb64624e7f.jpg",
+    "released": "2017-03-03",
+    "rating": 4.48,
+    "metascore_number": 97,
+    "metascore_color": "green",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Wii U"
+    ],
+    "website": "https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch",
+    "age_rating": "Everyone 10+",
+    "description": "The Legend of Zelda: Breath of the Wild is an adventure game developed by Nintendo. It is the nineteenth installment in the series.\n\nAfter awakening from a hundred year sleep, memoryless Link hears a mysterious female voice that guides him to a destroyed kingdom of Hyrule. He finds a Wiseman who says that a ruthless creature, Calamity Ganon, was imprisoned for 100 years. Even though the creature is trapped, it is still gaining power. Link sets out to kill Ganon before he frees himself and destroys the world.\n\nIn contrast to the previous titles in the series, Breath of the Wild the player to explore a vast open world. At the beginning of the game, a small tutorial is given to the players and they are free to travel the world at the pace they see fit. Link can climb almost every surface in the world, cook food to restore health. Fast travel to certain places in the world is also available for the players. The world is highly interactive thanks to the chemistry engine.",
+    "developers": [
+      "Nintendo"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "tags": [
+      "RPG",
+      "Open World",
+      "Sandbox",
+      "Action-Adventure",
+      "exclusive"
+    ],
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3c4/3c4a8f6b1994def75e73e1cb64624e7f.jpg",
+      "https://media.rawg.io/media/screenshots/8f5/8f5d4264b12090bb7aa5626fcfb5be18.jpg",
+      "https://media.rawg.io/media/screenshots/b77/b771adc0585c655f8a747d3160e5325a.jpg",
+      "https://media.rawg.io/media/screenshots/ef7/ef7d89471e5c0dc5553c249b2c34d9cd.jpg",
+      "https://media.rawg.io/media/screenshots/1e5/1e58e8a064da6906f09dba1edb3fdea6.jpg",
+      "https://media.rawg.io/media/screenshots/bef/bef44f5547b97d44c5e14f8773f9876c.jpg"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/3c4/3c4a8f6b1994def75e73e1cb64624e7f.jpg",
+        "preview_url": null,
+        "position": 1
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/8f5/8f5d4264b12090bb7aa5626fcfb5be18.jpg",
+        "preview_url": null,
+        "position": 2
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/b77/b771adc0585c655f8a747d3160e5325a.jpg",
+        "preview_url": null,
+        "position": 3
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/ef7/ef7d89471e5c0dc5553c249b2c34d9cd.jpg",
+        "preview_url": null,
+        "position": 4
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/1e5/1e58e8a064da6906f09dba1edb3fdea6.jpg",
+        "preview_url": null,
+        "position": 5
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/bef/bef44f5547b97d44c5e14f8773f9876c.jpg",
+        "preview_url": null,
+        "position": 6
+      }
+    ],
+    "stores": [
+      {
+        "store_id": 6,
+        "name": "Nintendo Store",
+        "slug": "nintendo",
+        "domain": "nintendo.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      }
+    ],
+    "suggestions": [],
+    "series": [
+      {
+        "name": "The Legend of Zelda: Tears of the Kingdom",
+        "url": "https://rawg.io/games/the-legend-of-zelda-breath-of-the-wild-sequel"
+      },
+      {
+        "name": "Zelda's Adventure",
+        "url": "https://rawg.io/games/zeldas-adventure"
+      },
+      {
+        "name": "Cadence of Hyrule",
+        "url": "https://rawg.io/games/cadence-of-hyrule"
+      },
+      {
+        "name": "Hyrule Warriors Legends",
+        "url": "https://rawg.io/games/hyrule-warriors-legends"
+      },
+      {
+        "name": "The Legend of Zelda: Tri Force Heroes",
+        "url": "https://rawg.io/games/the-legend-of-zelda-tri-force-heroes"
+      },
+      {
+        "name": "Hyrule Warriors",
+        "url": "https://rawg.io/games/hyrule-warriors"
+      },
+      {
+        "name": "The Legend of Zelda: A Link Between Worlds",
+        "url": "https://rawg.io/games/the-legend-of-zelda-a-link-between-worlds"
+      },
+      {
+        "name": "The Legend of Zelda: Skyward Sword",
+        "url": "https://rawg.io/games/the-legend-of-zelda-skyward-sword"
+      },
+      {
+        "name": "The Legend Of Zelda: Four Swords Anniversary Edition",
+        "url": "https://rawg.io/games/the-legend-of-zelda-four-swords-anniversary-editio"
+      },
+      {
+        "name": "The Legend of Zelda: Spirit Tracks",
+        "url": "https://rawg.io/games/the-legend-of-zelda-spirit-tracks"
+      }
+    ],
     "additions": []
   },
   {
@@ -2080,6 +2607,14 @@
     ],
     "suggestions": [],
     "series": [
+      {
+        "name": "Baldur's Gate II: Shadows of Amn",
+        "url": "https://rawg.io/games/baldurs-gate-ii-shadows-of-amn"
+      },
+      {
+        "name": "Baldur's Gate",
+        "url": "https://rawg.io/games/baldurs-gate"
+      },
       {
         "name": "Baldur's Gate II: Shadows of Amn",
         "url": "https://rawg.io/games/baldurs-gate-ii-shadows-of-amn"
@@ -21910,6 +22445,46 @@
     ],
     "suggestions": [],
     "series": [
+      {
+        "name": "Harry Potter: Quidditch Champions",
+        "url": "https://rawg.io/games/harry-potter-quidditch-champions"
+      },
+      {
+        "name": "Harry Potter: Magic Awakened",
+        "url": "https://rawg.io/games/harry-potter-magic-awakened"
+      },
+      {
+        "name": "The Henry Stickmin Collection",
+        "url": "https://rawg.io/games/the-henry-stickmin-collection"
+      },
+      {
+        "name": "Harry Potter: Hogwarts Mystery",
+        "url": "https://rawg.io/games/harry-potter-hogwarts-mystery"
+      },
+      {
+        "name": "Pottermore",
+        "url": "https://rawg.io/games/pottermore"
+      },
+      {
+        "name": "Harry Potter and the Deathly Hallows: Part 2",
+        "url": "https://rawg.io/games/harry-potter-and-the-deathly-hallows-part-2"
+      },
+      {
+        "name": "Harry Potter and the Deathly Hallows: Part 1",
+        "url": "https://rawg.io/games/harry-potter-and-the-deathly-hallows-part-1"
+      },
+      {
+        "name": "Harry Potter and the Half-Blood Prince",
+        "url": "https://rawg.io/games/harry-potter-and-the-half-blood-prince"
+      },
+      {
+        "name": "Harry Potter and the Order of the Phoenix",
+        "url": "https://rawg.io/games/harry-potter-and-the-order-of-the-phoenix"
+      },
+      {
+        "name": "Harry Potter and the Goblet of Fire",
+        "url": "https://rawg.io/games/harry-potter-and-the-goblet-of-fire"
+      },
       {
         "name": "Harry Potter: Quidditch Champions",
         "url": "https://rawg.io/games/harry-potter-quidditch-champions"
