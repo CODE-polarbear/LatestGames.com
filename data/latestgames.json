@@ -10638,7 +10638,7 @@
     "id": 685577,
     "slug": "vampire-survivors",
     "name": "Vampire Survivors",
-    "cover_image": null,
+    "cover_image": "https://media.rawg.io/media/games/501/501e7019925a3c692bf1c8062f07abe6.jpg",
     "screenshot": "https://media.rawg.io/media/screenshots/989/989ac4881dec59e10b459572a379fe60.jpg",
     "released": "2022-10-20",
     "rating": 4.19,
@@ -10658,20 +10658,110 @@
       "Xbox One",
       "Web"
     ],
-    "website": null,
+    "website": "https://vampiresurvivors.io/",
     "age_rating": null,
-    "description": "",
-    "developers": [],
-    "publishers": [],
-    "tags": [],
+    "description": "Vampire Survivors is currently a time survival game with minimalistic gameplay and roguelite elements.\nThere's no place where to hide, all you can do is try to survive a cursed night and get as much gold as possible for the next survivor, before Death inevitably puts an end to your struggles.\nContent in the early access version:7 characters\n22 weapons and 12 power-ups\n10 pickups\n23 achievements\n1 stage\nSupports mouse, keyboard, controller, and touch screen.\nStarting tips:Take your time to grab gems and items, they won't disappear.\nGet just two or three offensive weapons, but focus on leveling them up one at a time.\nArmor and Luck are good starting power-ups to spend money on.",
+    "developers": [
+      "poncle"
+    ],
+    "publishers": [
+      "poncle"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "RPG",
+      "2D",
+      "Pixel Graphics",
+      "Action RPG",
+      "Controller",
+      "Early Access",
+      "Retro",
+      "Dark Fantasy",
+      "Roguelike",
+      "Metroidvania",
+      "Roguelite",
+      "Loot",
+      "Bullet Hell",
+      "Touch-Friendly",
+      "1980s",
+      "Score Attack",
+      "Vampire",
+      "Action Roguelike",
+      "Spooky",
+      "Halloween"
+    ],
     "screenshots": [
       "https://media.rawg.io/media/screenshots/989/989ac4881dec59e10b459572a379fe60.jpg",
       "https://media.rawg.io/media/screenshots/112/1129db7a8a6d54d6607993d0e2e860f2.jpg",
       "https://media.rawg.io/media/screenshots/e22/e22f56c1fc8327fb0d955601cbfa0e64.jpg",
       "https://media.rawg.io/media/screenshots/200/2001e79e5c74812a1f29a5d9d09e67d1.jpg"
     ],
-    "media": [],
-    "stores": [],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/989/989ac4881dec59e10b459572a379fe60.jpg",
+        "preview_url": null,
+        "position": 1
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/112/1129db7a8a6d54d6607993d0e2e860f2.jpg",
+        "preview_url": null,
+        "position": 2
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/e22/e22f56c1fc8327fb0d955601cbfa0e64.jpg",
+        "preview_url": null,
+        "position": 3
+      },
+      {
+        "type": "image",
+        "url": "https://media.rawg.io/media/screenshots/200/2001e79e5c74812a1f29a5d9d09e67d1.jpg",
+        "preview_url": null,
+        "position": 4
+      }
+    ],
+    "stores": [
+      {
+        "store_id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 4,
+        "name": "App Store",
+        "slug": "apple-appstore",
+        "domain": "apps.apple.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 8,
+        "name": "Google Play",
+        "slug": "google-play",
+        "domain": "play.google.com",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      },
+      {
+        "store_id": 9,
+        "name": "itch.io",
+        "slug": "itch",
+        "domain": "itch.io",
+        "url": null,
+        "logo_url": null,
+        "hover_image_url": null
+      }
+    ],
     "suggestions": [],
     "series": [],
     "additions": []
